@@ -1,19 +1,10 @@
 #include <stdio.h>
-#include <time.h>
-#include <stdlib.h>
-#define MAX_SIZE 100
-#define ELEMENT 100
 
-typedef struct node{
-	int key;
-	int index[MAX_SIZE];
-} node;
 
-int main()
-{
-	int a = time(rand(NULL));
-	printf("%d " ,a);
+int main() {
+		int i, j, k;
+		for(i = 0; i < 10; i ++)
+			k ++;
 
-	printf("sample file in master branch\n");
-	return 0;
+			return k
 }
