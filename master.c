@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+<<<<<<< HEAD
 
 int main() {
 		int i, j, k;
